@@ -1,63 +1,66 @@
-# 👋 안녕하세요!  kimhh01입니다.
+# 👋 안녕하세요! 문제를 정의하고 가치를 만드는 개발자 **김희수**입니다.
 
-### 💻 소프트웨어 개발자
+<p align="left">
+  <a href="https://github.com/kimhh01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:khs10049731@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
-사용자에게 실제로 도움이 되는 서비스를 만드는 것을 목표로
-**Android · React · AI/RAG** 기술을 활용한 프로젝트를 개발하고 있습니다.
-
-문제를 분석하고 필요한 기술을 선택하여
-**기획 → 개발 → 데이터 처리 → 서비스 구현**까지 직접 경험하며 성장하고 있습니다.
+> **"하나의 기술에 갇히지 않고, 문제에 필요한 최적의 기술을 선택하여 서비스 전체 생태계를 직접 다룹니다."**
 
 ---
 
-## 🚀 저에 관하여
+## 💡 저에 관하여
 
-* 🎓 Computer Software
-* 📱 Android / Kotlin 기반 모바일 애플리케이션 개발
-* 🌐 React 기반 웹 서비스 개발
-* 🤖 Python / FastAPI / RAG 기반 AI 서비스 개발
-* 🗺️ Naver Maps API를 활용한 지도 및 길찾기 기능 구현
-* 🔐 JWT 기반 사용자 인증 및 REST API 연동
-* 📊 데이터 크롤링 및 전처리 경험
+저는 사용자에게 실제 도움이 되는 서비스를 목표로 **Android · React · AI/RAG** 기술을 융합하여 프로젝트를 개발하는 소프트웨어 개발자입니다.  
+단순히 주어진 요구사항대로 코드를 작성하는 것에 그치지 않고, **'이 문제가 사용자에게 왜 중요한가?'**를 출발점으로 삼아 서비스 기획부터 데이터 처리, 백엔드/AI 구축, 프론트엔드 및 모바일 앱 구현까지 **전 과정(End-to-End)을 직접 경험하며 성장**해 왔습니다.
+
+### 🎯 핵심 역량 및 개발 접근 방식
+
+* 📱 **모바일 & 위치 기반 기술 융합 (Android/Kotlin)**
+  * 실외 지도의 한계를 극복하기 위해 Naver Maps API, BLE Beacon, QR 코드를 유기적으로 결합하여 **온·오프라인을 잇는 실내외 위치 탐색 및 길찾기 시스템**을 구축했습니다.
+  * 사용자 관점에서 직관적이고 끊김 없는 위치 경험을 제공하는 데 집중합니다.
+
+* 🌐 **안정적이고 직관적인 웹 인터페이스 (React/JavaScript)**
+  * React 기반의 SPA 개발을 통해 컴포넌트 재사용성과 유지보수성을 높이고, JWT 기반 보안 인증 및 RESTful API 연동으로 **안정적인 커뮤니티 플랫폼**을 개발했습니다.
+  * 클라이언트와 서버 간 데이터 흐름을 명확히 이해하고 인터랙티브한 UI를 구현합니다.
+
+* 🤖 **실용적 AI 파이프라인 및 데이터 처리 (Python/FastAPI/RAG)**
+  * 단순 LLM 호출을 넘어, 웹 크롤링과 Pandas로 수집·전처리한 데이터를 FAISS 벡터 DB와 LangChain으로 연결하여 **RAG 기반 맞춤형 AI 추천 및 상담 시스템**을 구축했습니다.
+  * 데이터 수집부터 Vector DB 검색, LLM 응답까지의 전체 파이프라인을 FastAPI 백엔드로 서빙할 수 있습니다.
+
+### 🌱 일하는 방식과 태도
+* **기술에 앞선 문제 분석**: 어떠한 기술을 도입할 때 항상 '왜 이 기술이어야 하는가?'에 대한 이유를 고민합니다.
+* **전체 생태계의 이해**: 기획-데이터-백엔드-프론트엔드가 어떻게 연결되는지 파악하고 있기에 타 직군과의 소통에 강하며, 이슈 발생 시 빠르게 원인을 추적합니다.
 
 ---
 
-# 🛠️ 기술 스택
+## 🛠️ 기술 스택
 
-### Languages
-
+### 📱 모바일 및 프론트엔드
 <p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-### Front-End / Mobile
-
+### 🤖 인공지능 및 백엔드
 <p>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
 </p>
 
-### Backend / AI
-
+### 🗄️ 데이터베이스 및 데이터 처리
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
-</p>
-
-### Database / Data
-
-<p>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 ---
