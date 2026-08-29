@@ -1,10 +1,5 @@
 # 👋 안녕하세요! 문제를 정의하고 가치를 만드는 개발자 **김희수**입니다.
 
-<p align="left">
-  <a href="https://github.com/kimhh01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:khs10049731@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
 > **"하나의 기술에 갇히지 않고, 문제에 필요한 최적의 기술을 선택하여 서비스 전체 생태계를 직접 다룹니다."**
 
 ---
@@ -201,9 +196,11 @@
 
 **GitHub**
 https://github.com/kimhh01
+<a href="https://github.com/kimhh01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 **Email**
 [khs10049731@gmail.com](mailto:khs10049731@gmail.com)
+<a href="mailto:khs10049731@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ---
 
